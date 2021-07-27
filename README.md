@@ -11,6 +11,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about front-end related stuff
 - 📫 How to reach me: deekshitdsouza@gmail.com
 
-###SPOTIFY PLAYING
-[<img src="https://novatorem-deekshitld.vercel.app/api/spotify" alt="Spotify now playing" width="350" />]
- (https://open.spotify.com/user/deekshitdsouza)
+### SPOTIFY PLAYING
+[![Spotify](https://novatorem-deekshitld.vercel.app/api/spotify)](https://open.spotify.com/user/deekshitdsouza)
