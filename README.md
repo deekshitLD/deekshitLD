@@ -1,8 +1,5 @@
 ### Hola, I'm Deekshit Dsouza 👋
 
-<!--
-**deekshitLD/deekshitLD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a Blockchain Project to create my own token
