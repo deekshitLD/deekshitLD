@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: deekshitdsouza@gmail.com
 
 ### SPOTIFY PLAYING 
-[<img src="https://novatorem-deekshitld.vercel.app/api/spotify" alt="spotify playing" width="350" />]
+[<img src="https://novatorem-six-psi.vercel.app/api/spotify" alt="spotify playing" width="350" />]
 (https://open.spotify.com/user/deekshitdsouza)
