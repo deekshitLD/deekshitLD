@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: deekshitdsouza@gmail.com
 
 ### SPOTIFY PLAYING
-[![Spotify](https://novatorem-deekshitld.vercel.app/api/spotify)](https://open.spotify.com/user/deekshitdsouza)
+[[Spotify](https://novatorem-deekshitld.vercel.app/api/spotify)](https://open.spotify.com/user/deekshitdsouza)
